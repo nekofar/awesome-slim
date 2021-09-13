@@ -14,17 +14,19 @@
 
 ## Boilerplate
 
-- [Slim Skeleton](https://github.com/slimphp/Slim-Skeleton) - Slim Framework 4 Skeleton Application.
 - [Slim 4 Skeleton](https://github.com/odan/slim4-skeleton) - This is a skeleton to quickly set up a new Slim 4 application.
-
+- [Slim Skeleton](https://github.com/slimphp/Slim-Skeleton) - Slim Framework 4 Skeleton Application.
 
 ## Middlewares
 
 - [Slim Basic Auth](https://github.com/tuupola/slim-basic-auth) - PSR-7 and PSR-15 HTTP Basic Authentication Middleware.
+- [Slim CSRF](https://github.com/slimphp/Slim-Csrf) - Slim Framework CSRF protection middleware.
 - [Slim JWT Auth](https://github.com/tuupola/slim-jwt-auth) - PSR-7 and PSR-15 JWT Authentication Middleware.
 
 ## Templates
-- [Slim Twig View](https://github.com/slimphp/Twig-View) Slim Framework view helper built on top of the Twig templating component.
+
+- [Slim Twig View](https://github.com/slimphp/Twig-View) - Slim Framework view helper built on top of the Twig templating component.
+- [Slim PHP View](https://github.com/slimphp/PHP-View) - This is a renderer for rendering PHP view scripts into a PSR-7 Response object.
 
 ## Development
 
