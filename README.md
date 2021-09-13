@@ -9,7 +9,9 @@
 
 - [Boilerplate](#boilersplate)
 - [Middlewares](#middlewares)
+- [Templating](#templating)
 - [Development](#development)
+- [Miscellaneous](#miscellaneous)
 
 
 ## Boilerplate
@@ -23,7 +25,7 @@
 - [Slim CSRF](https://github.com/slimphp/Slim-Csrf) - Slim Framework CSRF protection middleware.
 - [Slim JWT Auth](https://github.com/tuupola/slim-jwt-auth) - PSR-7 and PSR-15 JWT Authentication Middleware.
 
-## Templates
+## Templating
 
 - [Slim Twig View](https://github.com/slimphp/Twig-View) - Slim Framework view helper built on top of the Twig templating component.
 - [Slim PHP View](https://github.com/slimphp/PHP-View) - This is a renderer for rendering PHP view scripts into a PSR-7 Response object.
@@ -32,6 +34,11 @@
 
 - [Pest Slim Plugin](https://github.com/nekofar/pest-plugin-slim) - The Slim Plugin for Pest gives your basic functionality for testing.
 - [Slim Test](https://github.com/nekofar/slim-test) - Slim Framework test helper built on top of the PHPUnit test framework.
+
+## Miscellaneous
+
+- [PHP-DI Slim Bridge](https://github.com/PHP-DI/Slim-Bridge) - PHP-DI integration with the Slim framework.
+
 
 <!-- ## Contribute -->
 
