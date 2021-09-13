@@ -16,6 +16,7 @@
 
 ## Boilerplate
 
+- [Slim 4 MVC Skeleton](https://github.com/semhoun/slim-skeleton-mvc) - This is a simple web application skeleton project.
 - [Slim 4 Skeleton](https://github.com/odan/slim4-skeleton) - This is a skeleton to quickly set up a new Slim 4 application.
 - [Slim Skeleton](https://github.com/slimphp/Slim-Skeleton) - Slim Framework 4 Skeleton Application.
 
