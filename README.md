@@ -23,6 +23,8 @@
 - [Slim Basic Auth](https://github.com/tuupola/slim-basic-auth) - PSR-7 and PSR-15 HTTP Basic Authentication Middleware.
 - [Slim JWT Auth](https://github.com/tuupola/slim-jwt-auth) - PSR-7 and PSR-15 JWT Authentication Middleware.
 
+## Templates
+- [Slim Twig View](https://github.com/slimphp/Twig-View) Slim Framework view helper built on top of the Twig templating component.
 
 ## Development
 
