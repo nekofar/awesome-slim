@@ -42,6 +42,7 @@
 
 - [PHP-DI Slim Bridge](https://github.com/PHP-DI/Slim-Bridge) - PHP-DI integration with the Slim framework.
 - [Slim Config](https://github.com/DavidePastore/Slim-Config) - A file configuration loader that supports PHP, INI, XML, JSON, and YML files.
+- [Slim Console](https://github.com/slimphp/Slim-Console) - Slim Framework Console.
 - [Slim Validation](https://github.com/DavidePastore/Slim-Validation) - A validation library for the Slim Framework. 
 
 
