@@ -19,7 +19,7 @@
 - [Slim 4 MVC Skeleton](https://github.com/semhoun/slim-skeleton-mvc) - This is a simple web application skeleton project.
 - [Slim 4 Skeleton](https://github.com/adriansuter/Slim4-Skeleton) - Web application skeleton that uses the PHP-DI, Nyholm PSR7 and Twig.
 - [Slim 4 Skeleton](https://github.com/odan/slim4-skeleton) - This is a skeleton to quickly set up a new Slim 4 application.
-- [Slim Skeleton](https://github.com/slimphp/Slim-Skeleton) - Slim Framework 4 Skeleton Application.
+- [Slim Skeleton](https://github.com/slimphp/Slim-Skeleton) - The official Slim Framework 4 Skeleton Application.
 
 ## Middlewares
 
@@ -41,6 +41,7 @@
 ## Miscellaneous
 
 - [PHP-DI Slim Bridge](https://github.com/PHP-DI/Slim-Bridge) - PHP-DI integration with the Slim framework.
+- [Slim Config](https://github.com/DavidePastore/Slim-Config) - A file configuration loader that supports PHP, INI, XML, JSON, and YML files.
 - [Slim Validation](https://github.com/DavidePastore/Slim-Validation) - A validation library for the Slim Framework. 
 
 
