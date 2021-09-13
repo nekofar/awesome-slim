@@ -38,6 +38,7 @@
 ## Miscellaneous
 
 - [PHP-DI Slim Bridge](https://github.com/PHP-DI/Slim-Bridge) - PHP-DI integration with the Slim framework.
+- [Slim Validation](https://github.com/DavidePastore/Slim-Validation) - A validation library for the Slim Framework. 
 
 
 <!-- ## Contribute -->
