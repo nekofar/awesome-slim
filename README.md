@@ -1,4 +1,4 @@
-# Awesome Slim [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check Links](https://github.com/nekofar/awesome-slim/actions/workflows/check-links.yml/badge.svg)](https://github.com/nekofar/awesome-slim/actions/workflows/check-links.yml)
+# Awesome Slim [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Lint](https://github.com/nekofar/awesome-slim/actions/workflows/tests.yml/badge.svg)](https://github.com/nekofar/awesome-slim/actions/workflows/lint.yml)
 
 > A curated list of awesome `Slim` framework packages and resources.
 
