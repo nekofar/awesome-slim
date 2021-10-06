@@ -1,13 +1,10 @@
-# Awesome Slim 
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Check Links](https://github.com/nekofar/awesome-slim/actions/workflows/check-links.yml/badge.svg)](https://github.com/nekofar/awesome-slim/actions/workflows/check-links.yml)
+# Awesome Slim [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Check Links](https://github.com/nekofar/awesome-slim/actions/workflows/check-links.yml/badge.svg)](https://github.com/nekofar/awesome-slim/actions/workflows/check-links.yml)
 
 > A curated list of awesome `Slim` framework packages and resources.
 
 ## Contents
 
-- [Boilerplate](#boilersplate)
+- [Boilerplate](#boilerplate)
 - [Middlewares](#middlewares)
 - [Templating](#templating)
 - [Development](#development)
