@@ -4,7 +4,7 @@
 
 ## Contents
 
-- [Boilerplate](#boilersplate)
+- [Boilerplate](#boilerplate)
 - [Middlewares](#middlewares)
 - [Templating](#templating)
 - [Development](#development)
