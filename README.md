@@ -1,7 +1,9 @@
 # Awesome Slim [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<!--lint ignore double-link-->
 [<img src="assets/slim-logo.png" align="right" width="260" alt="Slim Framework">](https://www.slimframework.com)
 
+<!--lint ignore double-link-->
 > A curated list of awesome [Slim](https://www.slimframework.com) framework packages and resources. 
 
 ## Contents
