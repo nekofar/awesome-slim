@@ -1,6 +1,6 @@
 # Awesome Slim [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome `Slim` framework packages and resources.
+> A curated list of awesome [Slim](https://www.slimframework.com) framework packages and resources. 
 
 ## Contents
 
