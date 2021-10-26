@@ -6,6 +6,8 @@
 <!--lint ignore double-link-->
 > A curated list of awesome [Slim](https://www.slimframework.com) framework packages and resources. 
 
+Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
+
 ## Contents
 
 - [Boilerplate](#boilerplate)
