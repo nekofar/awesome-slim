@@ -53,6 +53,6 @@
 - [Slim Validation](https://github.com/DavidePastore/Slim-Validation) - A validation library for the Slim Framework. 
 
 
-<!-- ## Contribute -->
+## Contributing
 
-<!-- Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first. -->
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
