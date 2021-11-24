@@ -15,6 +15,7 @@ Slim is a PHP micro framework that helps you quickly write simple yet powerful w
 - [Templating](#templating)
 - [Development](#development)
 - [Miscellaneous](#miscellaneous)
+- [Instructional](#instructional)
 
 
 ## Boilerplate
@@ -55,6 +56,12 @@ Slim is a PHP micro framework that helps you quickly write simple yet powerful w
 - [Slim JSON API](https://github.com/entomb/slim-json-api) - Slim extension to implement fast JSON API's.
 - [Slim Validation](https://github.com/DavidePastore/Slim-Validation) - A validation library for the Slim Framework. 
 
+## Instructional
+
+- [Slim User Guide](https://www.slimframework.com/docs/v4/) - The official documentation for Slim Framework.
+- [Slim Discussion Forum](https://discourse.slimframework.com) - The official Slim Framework discussion forum.
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/slim) - Slim Framework questions over Stack Overflow.
+- [Odan](https://odan.github.io) - Daniel Opitz helpful articles related to Slim Framework.
 
 ## Contributing
 
