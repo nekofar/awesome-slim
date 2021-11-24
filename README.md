@@ -61,7 +61,8 @@ Slim is a PHP micro framework that helps you quickly write simple yet powerful w
 - [Slim User Guide](https://www.slimframework.com/docs/v4/) - The official documentation for Slim Framework.
 - [Slim Discussion Forum](https://discourse.slimframework.com) - The official Slim Framework discussion forum.
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/slim) - Slim Framework questions over Stack Overflow.
-- [Odan](https://odan.github.io) - Daniel Opitz helpful articles related to Slim Framework.
+- [Slim 4 - GraphQL](https://odan.github.io/2021/08/12/slim-graphql.html) - Creating a modern HTTP APIs usig GraphQL.
+- [Slim 4 - ReactPHP](https://odan.github.io/2021/08/14/slim-reactphp.html) - Slim in combination with ReactPHP for the performance boost.
 
 ## Contributing
 
