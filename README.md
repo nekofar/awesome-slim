@@ -10,13 +10,20 @@ Slim is a PHP micro framework that helps you quickly write simple yet powerful w
 
 ## Contents
 
+- [Educational](#educational)
 - [Boilerplate](#boilerplate)
 - [Middlewares](#middlewares)
 - [Templating](#templating)
 - [Development](#development)
 - [Miscellaneous](#miscellaneous)
-- [Instructional](#instructional)
 
+## Educational
+
+- [Slim User Guide](https://www.slimframework.com/docs/v4/) - The official documentation for Slim Framework.
+- [Slim Discussion Forum](https://discourse.slimframework.com) - The official Slim Framework discussion forum.
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/slim) - Slim Framework questions over Stack Overflow.
+- [Slim 4 - GraphQL](https://odan.github.io/2021/08/12/slim-graphql.html) - Creating a modern HTTP APIs usig GraphQL.
+- [Slim 4 - ReactPHP](https://odan.github.io/2021/08/14/slim-reactphp.html) - Slim in combination with ReactPHP for the performance boost.
 
 ## Boilerplate
 
@@ -55,14 +62,6 @@ Slim is a PHP micro framework that helps you quickly write simple yet powerful w
 - [Slim Flash](https://github.com/slimphp/Slim-Flash) - Slim Framework flash messages service provider.
 - [Slim JSON API](https://github.com/entomb/slim-json-api) - Slim extension to implement fast JSON API's.
 - [Slim Validation](https://github.com/DavidePastore/Slim-Validation) - A validation library for the Slim Framework. 
-
-## Instructional
-
-- [Slim User Guide](https://www.slimframework.com/docs/v4/) - The official documentation for Slim Framework.
-- [Slim Discussion Forum](https://discourse.slimframework.com) - The official Slim Framework discussion forum.
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/slim) - Slim Framework questions over Stack Overflow.
-- [Slim 4 - GraphQL](https://odan.github.io/2021/08/12/slim-graphql.html) - Creating a modern HTTP APIs usig GraphQL.
-- [Slim 4 - ReactPHP](https://odan.github.io/2021/08/14/slim-reactphp.html) - Slim in combination with ReactPHP for the performance boost.
 
 ## Contributing
 
