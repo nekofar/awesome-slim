@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4.1.7
-    - uses: ruby/setup-ruby@v1.180.1
+    - uses: ruby/setup-ruby@v1.182.0
       with:
         ruby-version: '3.0'
         bundler-cache: true
