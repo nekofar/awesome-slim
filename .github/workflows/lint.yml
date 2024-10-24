@@ -10,7 +10,7 @@ jobs:
   awesome_bot:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4.2.1
+    - uses: actions/checkout@v4.2.2
     - uses: ruby/setup-ruby@v1.197.0
       with:
         ruby-version: '3.0'
@@ -23,7 +23,7 @@ jobs:
   awesome_lint:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4.2.1
+      - uses: actions/checkout@v4.2.2
         with:
           fetch-depth: 0
       - run: npx awesome-lint
