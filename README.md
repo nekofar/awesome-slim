@@ -36,7 +36,7 @@
 
 ## Middlewares
 
-- [Slim Basic Auth](https://github.com/tuupola/slim-basic-auth) - PSR-7 and PSR-15 HTTP Basic Authentication Middleware.
+- [Slim Basic Auth](https://github.com/JimTools/basic-auth) - PSR-7 and PSR-15 HTTP Basic Authentication Middleware.
 - [Slim CSRF](https://github.com/slimphp/Slim-Csrf) - Slim Framework CSRF protection middleware.
 - [Slim HTTP Cache](https://github.com/slimphp/Slim-HttpCache) - Slim Framework HTTP cache middleware and service provider.
 - [Slim JWT Auth](https://github.com/tuupola/slim-jwt-auth) - PSR-7 and PSR-15 JWT Authentication Middleware.
